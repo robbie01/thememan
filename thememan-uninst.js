@@ -1,0 +1,1 @@
+delete le._apps.thememan

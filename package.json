@@ -1,0 +1,6 @@
+{
+    "name": "thememan",
+    "description": "theme manager",
+    "inject": "thememan-install.js",
+    "uninstall": "thememan-uninst.js"
+}
